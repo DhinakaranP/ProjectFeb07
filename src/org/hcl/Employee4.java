@@ -11,4 +11,9 @@ System.out.println("add");
 		Employee4 o=new Employee4();
 		o.add();
 	}
+	public void multiplication() {
+		
+System.out.println("multiplication");
+	}
 }
+
