@@ -23,5 +23,14 @@ System.out.println("multiplication");
 		
 System.out.println("firstfolder");
 	}
+	
+	public void dina1() {
+		System.out.println("Dina1");
+
+	}
+	public void dina2() {
+		
+System.out.println("Dina2");
+	}
 }
 
