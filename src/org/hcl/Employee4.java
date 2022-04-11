@@ -19,5 +19,10 @@ System.out.println("add");
 System.out.println("multiplication");
 
 	}
+	
+	public void dina1() {
+		System.out.println("Dina1");
+
+	}
 }
 
