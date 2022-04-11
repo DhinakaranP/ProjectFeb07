@@ -19,6 +19,10 @@ System.out.println("add");
 System.out.println("multiplication");
 
 	}
+	public void gitfolder1() {
+		
+System.out.println("firstfolder");
+	}
 	
 	public void dina1() {
 		System.out.println("Dina1");
@@ -28,6 +32,5 @@ System.out.println("multiplication");
 		
 System.out.println("Dina2");
 	}
-	
 }
 
