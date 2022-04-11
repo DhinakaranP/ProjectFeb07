@@ -19,5 +19,9 @@ System.out.println("add");
 System.out.println("multiplication");
 
 	}
+	public void gitfolder1() {
+		
+System.out.println("firstfolder");
+	}
 }
 
